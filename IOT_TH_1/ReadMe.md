@@ -1,6 +1,6 @@
 # Bài thực hành: Lập trình Python với MQTT
 
-## Broker sử dụng
+## Thông tin sinh viên
 - **Họ và tên**: `Đặng Minh Hiếu`  
 - **MSV**: `B21DCAT087`
 
